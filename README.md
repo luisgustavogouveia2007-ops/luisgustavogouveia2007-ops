@@ -15,10 +15,10 @@
   <br />
 
   <!-- Links / Redes Sociais -->
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-gouveia-b50085430/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu.email@exemplo.com" target="_blank">
+  <a href="mailto:LuisGustavoGouveia2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -30,9 +30,7 @@
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de São Paulo (IFSP)**.
 - 💡 Buscando sempre aprender novas tecnologias, resolver problemas complexos e criar projetos relevantes.
-- 🛠️ Atualmente aprofundando meus conhecimentos em **Engenharia de Software, Lógica de Programação e Desenvolvimento Web**.
-- 🤝 Aberto a oportunidades de estágio e colaboração em projetos open-source.
-
+- 📈​ buscando aprender mais sobre ERPs do mercado
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -56,19 +54,5 @@
 
 </div>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <br />
-  <!-- Substitua 'SEU_USUARIO_GITHUB' pelo seu username real no GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Criado por <b>Luis Gustavo Gouveia</b> ☕</sub>
 </div>
